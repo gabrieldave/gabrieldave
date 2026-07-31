@@ -2,9 +2,13 @@
 
 # DaveCode
 
-### AI Product Builder · Full-Stack Developer
+### AI Product Builder · Desarrollador Full Stack
 
-I turn business ideas and manual workflows into production-ready SaaS products, automations and AI-powered web applications.
+Convierto ideas de negocio y procesos manuales en productos SaaS, automatizaciones y aplicaciones web con inteligencia artificial listas para producción.
+
+*I turn business ideas and manual workflows into production-ready SaaS products, automations and AI-powered web applications.*
+
+🌎 Latinoamérica · Disponible para trabajo remoto / Open to remote work
 
 [Portfolio](https://portafolio.iareal.net/) · [Atlas Estilos](https://atlas-estilos.iareal.net/) · [Cursia](https://fabricadecursos.iareal.net/) · [Empresa 360 AI](https://empresa360.iareal.net/)
 
@@ -17,55 +21,59 @@ I turn business ideas and manual workflows into production-ready SaaS products, 
 
 </div>
 
-## What I build
+## Lo que construyo / What I build
 
-- AI-powered SaaS products and internal business tools
-- Full-stack web applications, dashboards and PWAs
-- Authentication, payments, databases and role-based administration
-- Content, document and image-generation workflows
-- Dockerized applications deployed and monitored in production
+- Productos SaaS con IA y herramientas internas para empresas
+- Aplicaciones web full stack, dashboards y PWA
+- Autenticación, pagos, bases de datos y administración por roles
+- Flujos para generar contenido, documentos e imágenes
+- Aplicaciones con Docker, desplegadas y monitoreadas en producción
 
-I use AI-assisted development to move faster, while keeping architecture, validation, security, testing and deployment under deliberate technical control.
+Utilizo desarrollo asistido por IA para avanzar con rapidez, manteniendo bajo control técnico la arquitectura, validación, seguridad, pruebas y publicación.
 
-## Featured products
+*I use AI-assisted development to move faster while keeping architecture, validation, security, testing and deployment under deliberate technical control.*
 
-| Product | What it does | Core stack |
+## Productos destacados / Featured products
+
+| Producto | Qué resuelve | Tecnologías principales |
 |---|---|---|
-| [**Empresa 360 AI**](https://empresa360.iareal.net/) | Generates editable launch kits for small businesses, including strategy, brand concepts and commercial content. | Next.js, TypeScript, PostgreSQL, Drizzle, OpenAI, Auth.js, Stripe, Docker |
-| [**Cursia**](https://fabricadecursos.iareal.net/) | Turns a topic into a structured visual course, generating independent presentation slides and downloadable exports. | Next.js, TypeScript, PostgreSQL, OpenAI, image generation, PDF/PPTX/ZIP |
-| [**Atlas Estilos**](https://atlas-estilos.iareal.net/) | Freemium catalog of 500 visual styles with prompt construction, Google authentication, payments and favorites. | Next.js, React, TypeScript, PostgreSQL, OAuth, PWA, Docker |
-| [**El Taller del Prompt**](https://taller.iareal.net/) | Multimodel prompt workspace with a personal library, folders, deterministic compilers and an AI assistant. | Next.js, TypeScript, PostgreSQL, OpenAI Responses API, Auth.js, Vitest |
+| [**Empresa 360 AI**](https://empresa360.iareal.net/) | Genera kits editables de lanzamiento para pequeñas empresas: estrategia, conceptos de marca y contenido comercial. | Next.js, TypeScript, PostgreSQL, Drizzle, OpenAI, Auth.js, Stripe, Docker |
+| [**Cursia**](https://fabricadecursos.iareal.net/) | Convierte un tema en un curso visual estructurado, con diapositivas independientes y exportaciones descargables. | Next.js, TypeScript, PostgreSQL, OpenAI, generación de imágenes, PDF/PPTX/ZIP |
+| [**Atlas Estilos**](https://atlas-estilos.iareal.net/) | Catálogo freemium de 500 estilos visuales con constructor de prompts, acceso con Google, pagos y favoritos. | Next.js, React, TypeScript, PostgreSQL, OAuth, PWA, Docker |
+| [**El Taller del Prompt**](https://taller.iareal.net/) | Espacio multimodelo con biblioteca personal, carpetas, compiladores deterministas y asistente de IA. | Next.js, TypeScript, PostgreSQL, OpenAI Responses API, Auth.js, Vitest |
 
-> Most commercial source repositories are private. Live products and technical walkthroughs are available through my [portfolio](https://portafolio.iareal.net/).
+> El código de la mayoría de mis productos comerciales es privado. Puedes explorar aplicaciones en vivo y recorridos técnicos en mi [portafolio](https://portafolio.iareal.net/).  
+> *Most commercial source repositories are private. Live products and technical walkthroughs are available through my portfolio.*
 
-## Technical focus
+## Enfoque técnico / Technical focus
 
 ```text
 Frontend       Next.js · React · TypeScript · Tailwind CSS
-Backend        Node.js · REST APIs · server-side workflows · Zod
-Data           PostgreSQL · Drizzle ORM · migrations
-AI             OpenAI APIs · structured generation · image workflows · batch processing
-Product        Google OAuth · Stripe · roles · exports · usage controls
-Delivery       Docker · Coolify · Cloudflare · health checks · CI validation
+Backend        Node.js · APIs REST · flujos del servidor · Zod
+Datos          PostgreSQL · Drizzle ORM · migraciones
+IA             OpenAI APIs · generación estructurada · imágenes · procesamiento batch
+Producto       Google OAuth · Stripe · roles · exportaciones · control de uso
+Publicación    Docker · Coolify · Cloudflare · health checks · validación CI
 ```
 
-## How I work
+## Cómo trabajo / How I work
 
-1. Translate the business problem into a small, testable product scope.
-2. Build the complete flow: interface, data, APIs, AI integration and deployment.
-3. Validate critical behavior with types, tests, security checks and production health monitoring.
-4. Iterate from real usage instead of treating the first generated version as finished software.
+1. Convierto el problema de negocio en un alcance pequeño, claro y comprobable.
+2. Construyo el flujo completo: interfaz, datos, APIs, integración de IA y despliegue.
+3. Valido el comportamiento crítico con tipos, pruebas, controles de seguridad y monitoreo.
+4. Mejoro el producto a partir del uso real; la primera versión generada nunca se considera el trabajo terminado.
 
-## Current interests
+## Intereses actuales / Current interests
 
-- AI-native products for small businesses and creators
-- Rapid MVP development with production-quality foundations
-- Workflow automation and reusable AI systems
-- Practical tools for education, marketing and digital operations
+- Productos nativos de IA para pequeñas empresas y creadores
+- Desarrollo rápido de MVP con bases sólidas para producción
+- Automatización de procesos y sistemas de IA reutilizables
+- Herramientas prácticas para educación, marketing y operaciones digitales
 
-## Let’s work together
+## Trabajemos juntos / Let’s work together
 
-I’m available for remote opportunities, product collaborations and selected client projects.
+Estoy disponible para oportunidades remotas, colaboraciones de producto y proyectos seleccionados con clientes.
 
-**Explore my work:** [portafolio.iareal.net](https://portafolio.iareal.net/)
+*I’m available for remote opportunities, product collaborations and selected client projects.*
 
+**Explora mi trabajo / Explore my work:** [portafolio.iareal.net](https://portafolio.iareal.net/)
